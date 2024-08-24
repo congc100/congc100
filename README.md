@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning some backend knowledges to be a more comprehensive developer 🧑‍💻
+
 <!--
 **congc100/congc100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
